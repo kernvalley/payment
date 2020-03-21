@@ -1,0 +1,43 @@
+{
+    "requestIdx": "******-*******-*******",
+    "methodName": "basic-card",
+    "details": {
+        "billingAddress": {
+            "addressLine": [
+                "619 Burlando Rd"
+            ],
+            "city": "Kernville",
+            "country": "US",
+            "dependentLocality": "dependentLocality",
+            "organization": "KernValley.US",
+            "phone": "+1-661-619-6712",
+            "postalCode": "93238",
+            "recipient": "Chris Zuber",
+            "region": "California",
+            "sortingCode": "sortingCode"
+        },
+        "cardNumber": "************",
+        "cardSecurityCode": "###",
+        "cardholderName": "Name",
+        "expiryMonth": "03",
+        "expiryYear": "2020"
+    },
+    "shippingAddress": {
+        "country": "AddressCountry",
+        "addressLine": [
+            "StreetAddress"
+        ],
+        "region": "AddressRegion",
+        "city": "AddressLocality",
+        "dependentLocality": "",
+        "postalCode": "ZipCode",
+        "sortingCode": "",
+        "organization": "",
+        "recipient": "Name",
+        "phone": "+##########"
+    },
+    "shippingOption": "standard",
+    "payerName": "FullName",
+    "payerEmail": "user@example.com",
+    "payerPhone": "+##########"
+}
